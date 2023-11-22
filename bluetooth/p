@@ -1,0 +1,6 @@
+power on
+agent on
+default-agent
+scan on
+connect B8:F6:53:FD:D9:7C
+exit
